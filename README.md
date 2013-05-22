@@ -22,7 +22,6 @@ Month 6: 4 pairs of rabbits...
 
 
 An example of the running program:
-
-$  Please enter the month:
-$  5
-$  According to the while loop, there are 4 pairs of rabbits at the end of month 5. According to the recursive function, there are 4 pairs of rabbits at the end of month 5.
+Please enter the month:
+5
+According to the while loop, there are 4 pairs of rabbits at the end of month 5. According to the recursive function, there are 4 pairs of rabbits at the end of month 5.
